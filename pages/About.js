@@ -18,7 +18,7 @@ export default function About(){
   <div className="container">
   <h1 style={{textAlign:'center'}}><b>Gautham Vijayan</b></h1>
                 
-                <img src="gautham.jpeg"class="uy"></img>
+                <img src="gautham.jpeg"className="uy"></img>
                
                 <h2 style={{fontWeight:'500',textAlign:'center'}}>
                 Gautham Vijayan, a sr.REACT 
@@ -37,7 +37,7 @@ export default function About(){
       <div className="container">
   <h1 style={{textAlign:'center'}}><b>Makarand</b></h1>
                 
-                <img src="mak.jpeg"class="uy"></img>
+                <img src="mak.jpeg"className="uy"></img>
                
                 <h2 style={{fontWeight:'500',textAlign:'center'}}>
                 Makarand, a learner from Chennai
@@ -45,9 +45,9 @@ export default function About(){
           <br />
         <br />
          <div className="ioe">
-         <a href="https://instagram.com/rockrockymakarand___?utm_medium=copy_link" style={{alignItems:'center'}}><img src="instaa.png" style={{height:70}}class="soc"></img></a>
-          <a href="https://rockmakarand/github.io" style={{alignItems:'center'}}><img src="git.png" style={{height:70}}class="soc"></img></a>
-          <a href="social-linkedin-circle-512.webp" style={{alignItems:'center'}}><img src="link.png" style={{height:70}}class="soc"></img></a>
+         <a href="https://instagram.com/rockrockymakarand___?utm_medium=copy_link" style={{alignItems:'center'}}><img src="instaa.png" style={{height:70}}className="soc"></img></a>
+          <a href="https://rockmakarand/github.io" style={{alignItems:'center'}}><img src="git.png" style={{height:70}}className="soc"></img></a>
+          <a href="social-linkedin-circle-512.webp" style={{alignItems:'center'}}><img src="link.png" style={{height:70}}className="soc"></img></a>
           <br />
          </div>
         <br />
@@ -63,7 +63,7 @@ export default function About(){
         <div className="container"data-aos="zoom-in">
                 <h1 style={{textAlign:'center'}}><b>Neeraj Reddy</b></h1>
                
-                <img src="neeraj.jpeg"class="uy"></img>
+                <img src="neeraj.jpeg"className="uy"></img>
 
              
                 <h2 style={{fontWeight:'500',textAlign:'center'}}>
@@ -72,9 +72,9 @@ export default function About(){
           <br />
         <br />
          <div className="ioe">
-         <a href="https://instagram.com/neerajkreddy007?utm_medium=copy_link" style={{alignItems:'center'}}><img src="instaa.png" style={{height:70}}class="soc"></img></a>
-          <a href="https://github.com/Gautham495" style={{alignItems:'center'}}><img src="git.png" style={{height:70}}class="soc"></img></a>
-          <a href="https://www.linkedin.com/in/neeraj-kumar-reddy-velagala-7648431bb" style={{alignItems:'center'}}><img src="link.png" style={{height:70}}class="soc"></img></a>
+         <a href="https://instagram.com/neerajkreddy007?utm_medium=copy_link" style={{alignItems:'center'}}><img src="instaa.png" style={{height:70}}className="soc"></img></a>
+          <a href="https://github.com/Gautham495" style={{alignItems:'center'}}><img src="git.png" style={{height:70}}className="soc"></img></a>
+          <a href="https://www.linkedin.com/in/neeraj-kumar-reddy-velagala-7648431bb" style={{alignItems:'center'}}><img src="link.png" style={{height:70}}className="soc"></img></a>
           <br />
          </div>
         <br />

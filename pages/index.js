@@ -35,7 +35,7 @@ a lot of notes are required. The app therefore is available on Android and IoS</
 <a href="https://play.google.com/store/apps/details?id=com.gauthamchemnotes" style={{alignItems:'center'}}><img src="gplay.png" style={{height:70}} className='jee'></img></a>
 <br />
 <br />
-<a href="https://apps.apple.com/gm/app/jee-chemistry-note-nit-trichy/id1557500402" style={{alignItems:'center'}}><img src="apple.png" style={{height:10}} style={{alignContent:'center',alignSelf:'center'}}className='jee'></img></a>
+<a href="https://apps.apple.com/gm/app/jee-chemistry-note-nit-trichy/id1557500402" style={{alignItems:'center'}}><img src="apple.png" style={{height:10,alignContent:'center',alignSelf:'center'}}className='jee'></img></a>
 <br />
 <br />
 </div>
@@ -57,7 +57,7 @@ a lot of notes are required. The app therefore is available on Android and IoS</
 <a href="https://play.google.com/store/apps/details?id=com.gauthamchemnotes" style={{alignItems:'center'}}><img src="gplay.png" style={{height:70}} className='jee'></img></a>
 <br />
 <br />
-<a href="https://apps.apple.com/gm/app/jee-chemistry-note-nit-trichy/id1557500402" style={{alignItems:'center'}}><img src="apple.png" style={{height:10}} style={{alignContent:'center',alignSelf:'center'}}className='jee'></img></a>
+<a href="https://apps.apple.com/gm/app/jee-chemistry-note-nit-trichy/id1557500402" style={{alignItems:'center'}}><img src="apple.png" style={{height:10,alignContent:'center',alignSelf:'center'}}className='jee'></img></a>
 <br />
 <br />
 </div>
@@ -79,7 +79,7 @@ a lot of notes are required. The app therefore is available on Android and IoS</
 <a href="https://play.google.com/store/apps/details?id=com.gauthamchemnotes" style={{alignItems:'center'}}><img src="gplay.png" style={{height:70}} className='jee'></img></a>
 <br />
 <br />
-<a href="https://apps.apple.com/gm/app/jee-chemistry-note-nit-trichy/id1557500402" style={{alignItems:'center'}}><img src="apple.png" style={{height:60}} style={{alignContent:'center',alignSelf:'center'}}className='jee'></img></a>
+<a href="https://apps.apple.com/gm/app/jee-chemistry-note-nit-trichy/id1557500402" style={{alignItems:'center'}}><img src="apple.png" style={{height:60,alignContent:'center',alignSelf:'center'}}className='jee'></img></a>
 <br />
 <br />
 </div>
