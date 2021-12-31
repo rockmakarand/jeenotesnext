@@ -35,7 +35,7 @@ a lot of notes are required. The app therefore is available on Android and IoS</
 <a href="https://play.google.com/store/apps/details?id=com.gauthamchemnotes" style={{alignItems:'center'}}><img src="gplay.png" style={{height:70}} className='jee'></img></a>
 <br />
 <br />
-<a href="https://apps.apple.com/gm/app/jee-chemistry-note-nit-trichy/id1557500402" style={{alignItems:'center'}}><img src="apple.png" style={{height:10,alignContent:'center',alignSelf:'center'}}className='jee'></img></a>
+<a href="https://apps.apple.com/gm/app/jee-chemistry-note-nit-trichy/id1557500402" style={{alignItems:'center'}}><img src="apple.png" style={{height:60,alignContent:'center',alignSelf:'center'}}className='jee'></img></a>
 <br />
 <br />
 </div>
@@ -46,20 +46,19 @@ a lot of notes are required. The app therefore is available on Android and IoS</
 
  </div>
  <div className="container">
-     <h1 style={{textAlign:'center',color:'darkcyan'}}>Chemistry App</h1>
+     <h1 style={{textAlign:'center',color:'darkcyan'}}>Physics App</h1>
      <br />
      <h2 style={{fontWeight:'500',textAlign:'center'}}>
-   The Chemistry Notes App is our first project, since Chemistry is where
-a lot of notes are required. The app therefore is available on Android and IoS</h2>
+     The Physics Notes App is our second project. The app has notes combined 
+              from institutes in Andhra Pradesh, Tamil Nadu and Telangana. The app is available 
+          only in Google Playstore as of now</h2>
 <br />
 <br />
 <div className="uuy" style={{display:'flex',justifyContent:'space-evenly'}}>
 <a href="https://play.google.com/store/apps/details?id=com.gauthamchemnotes" style={{alignItems:'center'}}><img src="gplay.png" style={{height:70}} className='jee'></img></a>
 <br />
 <br />
-<a href="https://apps.apple.com/gm/app/jee-chemistry-note-nit-trichy/id1557500402" style={{alignItems:'center'}}><img src="apple.png" style={{height:10,alignContent:'center',alignSelf:'center'}}className='jee'></img></a>
-<br />
-<br />
+
 </div>
 <br />
 <br />
@@ -68,7 +67,7 @@ a lot of notes are required. The app therefore is available on Android and IoS</
 
  </div>
  <div className="container">
-     <h1 style={{textAlign:'center',color:'darkcyan'}}>Chemistry App</h1>
+     <h1 style={{textAlign:'center',color:'darkcyan'}}>Mathematics App</h1>
      <br />
      <h2 style={{fontWeight:'500',textAlign:'center'}}>
    The Chemistry Notes App is our first project, since Chemistry is where
