@@ -7,6 +7,7 @@ export default function About(){
        <Link style={{justifyContent:'space-between'}} href="/">Home</Link>
         <Link href="/About">About</Link>
         <Link href="/contact">Contact</Link>
+        <Link href="/pay">Get Notes</Link>
        </div>
        
         <h1 style={{color: 'palevioletred',textAlign:'center',fontSize:50}}><b>Persons involved in the developement of the app</b></h1>      

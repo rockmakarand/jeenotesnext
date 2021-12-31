@@ -7,6 +7,7 @@ export default function Contact(){
        <Link style={{justifyContent:'space-between'}} href="/">Home</Link>
         <Link href="/About">About</Link>
         <Link href="/contact">Contact</Link>
+        <Link href="/pay">Get Notes</Link>
        </div>
        
        <h1 style={{textAlign:'center',color:'yellowgreen'}}>

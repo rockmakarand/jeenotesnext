@@ -14,6 +14,7 @@ export default function Home(){
       <Link href="/"><a style={{fontSize:'10'}}>Home</a></Link>
         <Link href="/About"><a>About</a></Link>
         <Link href="/contact">Contact</Link>
+        <Link href="/pay">Get Notes</Link>
      
        </div>
       <h1 style={{color: 'palevioletred',textAlign:'center',fontSize:50}}><b>JEE Notes APP</b></h1>      
@@ -89,6 +90,41 @@ a lot of notes are required. The app therefore is available on Android and IoS</
  </div>
    
     </div>
+    <br/>
+    <br/>
+    <br/>
+    <div className="oir" data-aos="zoom-in" 
+        animate={{
+          opacity:1
+        }}
+        >
+          <img src="mission.png" className="misss"></img>
+          <br />
+        <br />
+          <h1 style={{textAlign:'center',color:'darkgreen'}}>
+               Our Missions</h1>
+               <br />
+        <br />
+               <h2 style={{textAlign:'center',fontWeight:500,color:'deeppink'}}>
+               1. To provide QUALITY Notes to students who can not afford it</h2>
+               <br />
+        <br />
+               <h2 style={{textAlign:'center',fontWeight:500,color:'darkcyan'}}>
+               2. Also to provide Mock test for JEE MAIN and ADVANCED at AFFORDABLE PRICES!!</h2>
+               <br />
+        <br />
+               <h2 style={{textAlign:'center',fontWeight:500,color:'blue'}}>
+               3. To provide GOOD QUALITY QUESTIONS with VIDEO SOLUTIONS..</h2>
+               <br />
+        <br />
+               <h2 style={{textAlign:'center',fontWeight:500,}}><b>
+               4. To provide FREE Josaa and Csab Counselling..</b></h2>
+               <br />
+        <br />
+          
+        </div>
+        <br/>
+        <br/>
     </div>
     
   )
