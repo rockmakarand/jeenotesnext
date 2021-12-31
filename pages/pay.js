@@ -299,8 +299,14 @@ return (
     <div className="App">
          <div className='pen'>
        <Link style={{justifyContent:'space-between'}} href="/">Home</Link>
+       &nbsp;&nbsp;
+      &nbsp;&nbsp;
         <Link href="/About">About</Link>
+        &nbsp;&nbsp;
+      &nbsp;&nbsp;
         <Link href="/contact">Contact</Link>
+        &nbsp;&nbsp;
+      &nbsp;&nbsp;
         <Link href="/pay">Get Notes</Link>
        </div>
 

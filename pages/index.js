@@ -9,11 +9,20 @@ export default function Home(){
   
   return(
     <div>
-      <div className='pen'style={{justifyContent:"space-evenly"}}>
+      <div className='pen'>
       
       <Link href="/"><a style={{fontSize:'10'}}>Home</a></Link>
+      &nbsp;&nbsp;
+      &nbsp;&nbsp;
+    
         <Link href="/About"><a>About</a></Link>
+        
+      &nbsp;&nbsp;
+      
+      &nbsp;&nbsp;
         <Link href="/contact">Contact</Link>
+        &nbsp;&nbsp;
+      &nbsp;&nbsp;
         <Link href="/pay">Get Notes</Link>
      
        </div>
