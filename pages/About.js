@@ -29,7 +29,10 @@ export default function About(){
             <br />
   <br />
   <div className='mkk'>
-  <div className="container">
+  <div className="container"data-aos="zoom-in" 
+        animate={{
+          opacity:1
+        }}>
   <h1 style={{textAlign:'center'}}><b>Gautham Vijayan</b></h1>
                 
                 <img src="gautham.jpeg"className="uy"></img>
@@ -48,7 +51,10 @@ export default function About(){
         <br />
  
       </div>
-      <div className="container">
+      <div className="container"data-aos="zoom-in" 
+        animate={{
+          opacity:1
+        }}>
   <h1 style={{textAlign:'center'}}><b>Makarand</b></h1>
                 
                 <img src="mak.jpeg"className="uy"></img>
