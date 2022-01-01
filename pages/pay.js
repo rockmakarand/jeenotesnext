@@ -1,10 +1,17 @@
 import axios from 'axios'
 
 import Link from 'next/link'
+import { useEffect } from 'react';
+import Aos from "aos"
+import "aos/dist/aos.css"
 
 
 
 function App() {
+    useEffect(()=>{
+        Aos.init({duration:3000});
+      },[]);
+      
   
 
 

@@ -1,11 +1,18 @@
 
 import Head from 'next/head' 
 import Image from 'next/image' 
+import { useEffect } from 'react';
+import Aos from "aos"
+import "aos/dist/aos.css"
 //import './index.css' 
 import Link from 'next/link'
 
 
 export default function Home(){
+  useEffect(()=>{
+    Aos.init({duration:3000});
+  },[]);
+  
   
   return(
     <div>
@@ -33,7 +40,10 @@ export default function Home(){
           <br />
 <br />
 <div className='mkk'>
-<div className="container">
+<div className="container"data-aos="zoom-in" 
+        animate={{
+          opacity:1
+        }}>
      <h1 style={{textAlign:'center',color:'darkcyan'}}>Chemistry App</h1>
      <br />
      <h2 style={{fontWeight:'500',textAlign:'center'}}>
@@ -55,7 +65,10 @@ a lot of notes are required. The app therefore is available on Android and IoS</
 <a href="https://www.youtube.com/watch?v=zciygP464Oo"><img src="y.png" style= {{height:130,alignSelf:'center',alignContent:'center',alignItems:'center'}}className='jee'></img></a>
 
  </div>
- <div className="container">
+ <div className="container"data-aos="zoom-in" 
+        animate={{
+          opacity:1
+        }}>
      <h1 style={{textAlign:'center',color:'darkcyan'}}>Physics App</h1>
      <br />
      <h2 style={{fontWeight:'500',textAlign:'center'}}>
@@ -76,7 +89,10 @@ a lot of notes are required. The app therefore is available on Android and IoS</
 <a href="https://www.youtube.com/watch?v=zciygP464Oo"><img src="y.png" style= {{height:130,alignSelf:'center',alignContent:'center',alignItems:'center'}}className='jee'></img></a>
 
  </div>
- <div className="container">
+ <div className="container"data-aos="zoom-in" 
+        animate={{
+          opacity:1
+        }}>
      <h1 style={{textAlign:'center',color:'darkcyan'}}>Mathematics App</h1>
      <br />
      <h2 style={{fontWeight:'500',textAlign:'center'}}>

@@ -1,5 +1,12 @@
 import Link from 'next/link'
+import { useEffect } from 'react';
+import Aos from "aos"
+import "aos/dist/aos.css"
 export default function About(){
+  useEffect(()=>{
+    Aos.init({duration:3000});
+  },[]);
+  
   
     return(
       <div>
