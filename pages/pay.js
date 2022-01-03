@@ -3,6 +3,8 @@ import axios from 'axios'
 import Link from 'next/link'
 import { useEffect } from 'react';
 import Aos from "aos"
+import 'bootstrap/dist/css/bootstrap.min.css';
+
 import "aos/dist/aos.css"
 
 

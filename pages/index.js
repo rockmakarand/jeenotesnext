@@ -6,6 +6,8 @@ import Aos from "aos"
 import "aos/dist/aos.css"
 //import './index.css' 
 import Link from 'next/link'
+//import 'bootstrap/dist/css/bootstrap.min.css';
+
 
 
 export default function Home(){
