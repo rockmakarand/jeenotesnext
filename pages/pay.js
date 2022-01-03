@@ -410,7 +410,6 @@ return (
     <h2>If you want to Buy Notes of Selected Chapters , click Here !</h2>
         <br/>
         
-      <a href="https://rockmakarand.github.io/razorr/"><button  className="oup" style={{backgroundColor:'royalblue'}}><p style={{color:'white'}}>Make a Payment</p></button></a>
       <form><script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_IQCVjfV1HrqH3R" async> </script> </form>
       <br/>
         <br/>
